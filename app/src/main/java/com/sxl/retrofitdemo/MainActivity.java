@@ -14,7 +14,8 @@ import retrofit2.Callback;
 import retrofit2.Response;
 import retrofit2.Retrofit;
 import retrofit2.converter.gson.GsonConverterFactory;
-
+/*
+* 修改代码*/
 public class MainActivity extends AppCompatActivity implements Callback<Tngou>{
 
     @Bind(R.id.news_listView)
